@@ -1,6 +1,6 @@
 {
-    "url": "https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=()&queryId=voyagerDashMySettings.7ea6de345b41dfb57b660a9a4bebe1b8",
-    "raw_url": "https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=()&queryId=voyagerDashMySettings.7ea6de345b41dfb57b660a9a4bebe1b8",
+    "url": "https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(memberIdentity:ACoAAEmOUf4BiMWUgAwDb2uf3axzO6t7yZFKrTk)&queryId=voyagerIdentityDashProfiles.b5c27c04968c409fc0ed3546575b9b7a",
+    "raw_url": "https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(memberIdentity:ACoAAEmOUf4BiMWUgAwDb2uf3axzO6t7yZFKrTk)&queryId=voyagerIdentityDashProfiles.b5c27c04968c409fc0ed3546575b9b7a",
     "method": "get",
     "cookies": {
         "bcookie": "\"v=2&cd291c39-6730-47e9-8c0f-9be3f95e4eb0\"",
@@ -42,7 +42,7 @@
         "sec-fetch-site": "same-origin",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "x-li-lang": "en_US",
-        "x-li-page-instance": "urn:li:page:feed_index_index;e32e01e1-df7b-414a-965f-462990ec3bc1",
+        "x-li-page-instance": "urn:li:page:d_flagship3_feed;4y4B4d97QUqWX0YpkOw7wQ==",
         "x-li-track": "{\"clientVersion\":\"1.13.15930\",\"mpVersion\":\"1.13.15930\",\"osName\":\"web\",\"timezoneOffset\":5.5,\"timezone\":\"Asia/Calcutta\",\"deviceFormFactor\":\"DESKTOP\",\"mpName\":\"voyager-web\",\"displayDensity\":1,\"displayWidth\":1366,\"displayHeight\":768}",
         "x-restli-protocol-version": "2.0.0"
     }
